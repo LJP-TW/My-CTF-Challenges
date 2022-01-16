@@ -1,7 +1,7 @@
 # My-CTF-Challenges
 
 ## AIS3-2021-EOF-Qual
-* Reverse 題目 x 4
+* Reverse 題目 x 5
 * beardrop
     * patch dropbear sshd 的登入邏輯
     * 印象中有在某場 CTF 打過類似的題目, 不過忘記是哪一場的哪一題了, 如果有找到類似的題目可以跟我說一下, 我再將連結更新至此
