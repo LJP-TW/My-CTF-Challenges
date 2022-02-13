@@ -13,3 +13,12 @@
     * 使用幾個 Windows malware 常見手段
 * wannaSleep_revenge
     * 修正版 wannaSleep, 與 wannaSleep 存放在同一個 solution 中
+
+## AIS3-2021-EOF-Final
+* Reverse 題目 x 1
+* meoware
+    * Reflective DLL loader
+        * 將 DLL 各部分拆散 (Section Table, Import/Export/TLS/Reloc dirs)
+        * 將原 payload DLL 中, 被拆開來的部分清空
+    * 直接使用部分 system call
+        * 參考 am0nsec/HellsGate
