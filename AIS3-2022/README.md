@@ -9,4 +9,4 @@
 * Give_Me_SC
     * Pwn 題
     * 出題動機是怕 Pwn 類別沒有水題, 想出一題 shellcode 水題, 但又想讓各位稍微跳脫一點舒適圈, 因此決定出不同指令集的題目
-    * Aarch64 Shellcoding, 並起完全沒有任何設防
+    * Aarch64 Shellcoding, 並且完全沒有任何設防
